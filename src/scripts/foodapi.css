@@ -1,0 +1,18 @@
+.div--style {
+    border: 2px solid maroon;
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+    flex-basis: 15%;
+    margin: 5px;
+}
+
+.h1--style, .h3--style {
+    margin: 0;
+}
+
+.foodList {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
